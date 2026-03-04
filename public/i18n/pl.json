@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "machine": "Maszyna",
+    "measurements": "Pomiary",
+    "about": "O aplikacji"
+  },
+  "dashboard": {
+    "title": "Dashboard"
+  },
+  "machine": {
+    "title": "Ciśnienie i temperatura"
+  },
+  "measurements": {
+    "title": "Pomiary"
+  },
+  "about": {
+    "title": "O aplikacji"
+  },
+  "notFound":{
+    "title": "Brak takiej strony"
+  },
+  "footer": {
+    "address": "ADRES",
+    "telephone": "TELEFON"
+  },
+  "widgets":{
+    "pressure": {
+      "title": "Ciśnienie",
+      "average": "Średnie ciśnienie"
+    },
+    "temperature": {
+      "title": "Temperatura",
+      "average": "Średnia temperatura"
+    }
+  }
+}

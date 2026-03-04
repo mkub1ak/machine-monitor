@@ -1,0 +1,37 @@
+{
+  "menu": {
+    "dashboard": "Dashboard",
+    "machine": "Machine",
+    "measurements": "Measurements",
+    "about": "About"
+  },
+  "dashboard": {
+    "title": "Dashboard"
+  },
+  "machine": {
+    "title": "Pressure and temperature"
+  },
+  "measurements": {
+    "title": "Measurements"
+  },
+  "about": {
+    "title": "About"
+  },
+  "notFound":{
+    "title": "Page not found"
+  },
+  "footer": {
+    "address": "ADDRESS",
+    "telephone": "TELEPHONE"
+  },
+  "widgets":{
+    "pressure": {
+      "title": "Pressure",
+      "average": "Average pressure"
+    },
+    "temperature": {
+      "title": "Temperature",
+      "average": "Average temperature"
+    }
+  }
+}

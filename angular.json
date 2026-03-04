@@ -19,6 +19,7 @@
             "browser": "src/main.ts",
             "tsConfig": "tsconfig.app.json",
             "assets": [
+              "src/robots.txt",
               {
                 "glob": "**/*",
                 "input": "public"
@@ -47,7 +48,14 @@
             "development": {
               "optimization": false,
               "extractLicenses": false,
-              "sourceMap": true
+              "sourceMap": true,
+              "namedChunks": true
+            },
+            "analyze-bundle": {
+              "sourceMap": true,
+              "outputHashing": "none",
+              "namedChunks": true,
+              "statsJson": true
             }
           },
           "defaultConfiguration": "production"
